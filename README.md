@@ -1,6 +1,10 @@
-![Logo](https://github.com/KUN1007/kun-galgame-vue/blob/unfixed-loli/src/assets/images/favicon.png)
+![kun-galgame-nuxt3](https://kungal.com/kungalgame.webp)
 
-The image is sourced from the game [Ark Order](https://apps.qoo-app.com/en/app/9593), featuring the character '鲲' (Kun).
+### **[中文版](/Readme_ZH.md)** | **[日本語](/Readme_JA.md)**
+
+**Contact us：[Telegram](https://t.me/kungalgame) | [Discord](https://discord.com/invite/5F4FS2cXhX)**
+
+The image is sourced from the game [Ark Order](https://apps.qoo-app.com/en/app/9593), featuring the character 'KUN' (鲲).
 
 # kun-galgame-vue
 
