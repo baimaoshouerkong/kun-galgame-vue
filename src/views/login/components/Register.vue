@@ -145,12 +145,13 @@ const handleRegister = async () => {
   <div class="register">
     <Settings />
 
-    <div class="form">
+    <form class="form" @submit.prevent>
       <h2 class="title">{{ $tm('login.register.title') }}</h2>
 
       <div class="container" v-for="item in registerFormItem" :key="item.index">
         <input
           v-model="registerForm[item.value]"
+          autocomplete="username"
           :type="item.type"
           :placeholder="`${$tm(`login.register.${item.placeholder}`)}`"
           :class="item.class"
@@ -179,7 +180,7 @@ const handleRegister = async () => {
           </RouterLink>
         </div>
       </span>
-    </div>
+    </form>
   </div>
 </template>
 

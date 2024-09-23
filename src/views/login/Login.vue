@@ -10,11 +10,6 @@ import Register from './components/Register.vue'
 
 const isShowPanel = ref('')
 
-// Background image, this is the backend's URL
-const backgroundImageUrl = `${
-  import.meta.env.VITE_API_UPLOADS_URL
-}/login/login.webp`
-
 // Click login, slide the panel
 const handleClickSignIn = () => {
   isShowPanel.value = ''
@@ -28,11 +23,7 @@ const handleClickRegister = () => {
 
 <template>
   <div class="root">
-    <div
-      class="container"
-      :class="isShowPanel"
-      :style="{ backgroundImage: `url(${backgroundImageUrl})` }"
-    >
+    <div class="container" :class="isShowPanel">
       <!-- Login and registration toggle -->
       <div class="switch">
         <div @click="handleClickSignIn">{{ $tm('login.overlay.login') }}</div>
@@ -109,6 +100,7 @@ const handleClickRegister = () => {
   max-width: 700px;
   position: relative;
   width: 100%;
+  background-image: url('/login.webp');
 }
 
 .switch {
