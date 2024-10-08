@@ -120,7 +120,7 @@ KUNGalgame 创建的意义在于：
 
 Telegram：https://t.me/KUNForum
 
-Tencent QQ Group: 872839714
+Tencent QQ Group: 830146796
 
 下面两个群组是 Galgame 群，交流与反馈
 

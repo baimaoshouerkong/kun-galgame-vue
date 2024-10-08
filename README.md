@@ -1,7 +1,5 @@
 ![kun-galgame-nuxt3](https://kungal.com/kungalgame.webp)
 
-### **[中文版](/Readme_ZH.md)** | **[日本語](/Readme_JA.md)**
-
 **Contact us：[Telegram](https://t.me/kungalgame) | [Discord](https://discord.com/invite/5F4FS2cXhX)**
 
 The image is sourced from the game [Ark Order](https://apps.qoo-app.com/en/app/9593), featuring the character 'KUN' (鲲).
@@ -103,7 +101,7 @@ The upcoming release is only the first version. We had planned the content for v
 If you want to join our development or Galgame groups, you can connect with us through the following channels:
 
 - [Telegram Group](https://t.me/KUNForum)
-- Tencent QQ Group: 872839714
+- Tencent QQ Group: 830146796
 
 The following two groups are Galgame groups for discussions and feedback:
 
